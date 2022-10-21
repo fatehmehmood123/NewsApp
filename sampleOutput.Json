@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "CBO: Biden's student debt plan would cost $400 billion over 30 years - WFAA",
+            "description": "The White House noted that the CBO's estimated cost in the first year — $21 billion — is actually lower than the administration's early estimate of $24 billi...",
+            "url": "https://www.youtube.com/watch?v=SOvxiLR97PQ",
+            "urlToImage": "https://i.ytimg.com/vi/SOvxiLR97PQ/hqdefault.jpg",
+            "publishedAt": "2022-09-27T12:23:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh",
+            "title": "Hurricane Ian makes landfall in western Cuba as a Category 3 storm, threatening a path of destruction as it churns toward Florida - CNN",
+            "description": "An ally of President Vladimir Putin issued a stark new nuclear warning to Ukraine and the West on Tuesday as referendums billed by Russia as a prelude to it annexing four Ukrainian regions entered their fifth and final day.",
+            "url": "https://www.cnn.com/2022/09/27/weather/hurricane-ian-cuba-florida-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220926215006-01-hurricane-ian-0926.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-27T11:49:00Z",
+            "content": "Editors Note: Affected by the storm? Use CNNs lite site for low bandwidth. You also can text or WhatsApp your Ian stories to CNN +1 347-322-0415.\r\nRapidly intensifying Hurricane Ian made landfall in … [+7519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "cleveland.com"
+            },
+            "author": "Mary Kay Cabot, cleveland.com",
+            "title": "Myles Garrett released from hospital Monday night with non-life threatening injuries after flipping his car m - cleveland.com",
+            "description": "Garrett flipped his Porsche multiple times on Monday afternoon and sustained non-life threatening injuries.",
+            "url": "https://www.cleveland.com/browns/2022/09/myles-garrett-released-from-hospital-monday-night-with-non-life-threatening-injuries-after-flipping-his-car-multiple-times.html",
+            "urlToImage": "https://www.cleveland.com/resizer/nkbb5T-tMrsa4Zu4c6p_RmjVRqk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CLCZBASBZGUVIB2JK2HVXPB5A.JPG",
+            "publishedAt": "2022-09-27T11:35:00Z",
+            "content": "CLEVELAND, Ohio -- Myles Garrett was released from the hospital Monday night after being treated for non-life threatening injuries suffered Monday afternoon when he lost control of his Porsche on the… [+5754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Eammon Jacobs",
+            "title": "'House of the Dragon' season 2 won't star Milly Alcock and Emily Carey - Insider",
+            "description": "Creator Ryan Condal said that Milly Alcock and Emily Carey won't star in \"House of the Dragon\" season two, but he's open to their return.",
+            "url": "https://www.insider.com/milly-alcock-emily-carey-house-of-the-dragon-season-2-2022-9",
+            "urlToImage": "https://i.insider.com/6332cbae003b0d00188b571a?width=1200&format=jpeg",
+            "publishedAt": "2022-09-27T11:30:40Z",
+            "content": "When \"House of the Dragon\" first premiered on HBO, fans quickly became invested in the tumultuous dynamic between Rhaenyra Targaryen (Milly Alcock) and Alicent Hightower (Emily Carey), as the fantasy… [+2365 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "With flowers and a gun salute, Japan bids farewell to divisive Abe - Reuters",
+            "description": "With flowers, prayers and a 19-gun salute, Japan honoured slain former Prime Minister Shinzo Abe on Tuesday at the first state funeral for a former premier in 55 years - a ceremony that has become as controversial as he was in life.",
+            "url": "https://www.reuters.com/world/asia-pacific/with-flowers-gun-salute-japan-bids-farewell-slain-abe-state-funeral-2022-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/cbCmG45TtAtioqKuCbeBHmS649M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6DCBPHKPMZINFOO33LYR3LVZGE.jpg",
+            "publishedAt": "2022-09-27T11:21:00Z",
+            "content": "TOKYO, Sept 27 (Reuters) - With flowers, prayers and a 19-gun salute, Japan honoured slain former Prime Minister Shinzo Abe on Tuesday at the first state funeral for a former premier in 55 years - a … [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "John Rosevear",
+            "title": "Hertz is teaming up with oil giant BP to install thousands of EV chargers in the U.S. - CNBC",
+            "description": "BP's fleet-charging unit will help Hertz manage its growing fleet of EVs, with chargers that will be available to the public as well.",
+            "url": "https://www.cnbc.com/2022/09/27/hertz-and-bp-installing-ev-chargers-in-us.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106969247-1635860592265HertzInvests_1634924112275-HR.jpg?v=1664276401&w=1920&h=1080",
+            "publishedAt": "2022-09-27T11:00:01Z",
+            "content": "Hertz is teaming up with oil giant BP to build a new network of electric vehicle charging stations throughout the United States.\r\nThe rental car giant which in the last year has announced deals to pu… [+2750 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia issues new nuclear warning as it wraps up contested Ukraine referendums - Reuters UK",
+            "description": "An ally of President Vladimir Putin issued a stark new nuclear warning to Ukraine and the West on Tuesday as referendums billed by Russia as a prelude to it annexing four Ukrainian regions entered their fifth and final day.",
+            "url": "https://www.reuters.com/world/ukraine-annexation-votes-end-amid-russian-mobilisation-exodus-2022-09-26/",
+            "urlToImage": "https://www.reuters.com/resizer/5CZ4BJ9daAvraNvMkKjwruCT0mY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OVI74CYW3BIVTAVXHXCEPXQ5LA.jpg",
+            "publishedAt": "2022-09-27T10:50:00Z",
+            "content": "LONDON/ZAPORIZHZHIA, Ukraine, Sept 27 (Reuters) - An ally of President Vladimir Putin issued a stark new nuclear warning to Ukraine and the West on Tuesday as referendums billed by Russia as a prelud… [+5658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGAL Susquehanna Valley Pa."
+            },
+            "author": null,
+            "title": "Bright light streaks across the sky in Pennsylvania, Maryland, Delaware - WGAL Susquehanna Valley Pa.",
+            "description": "A bright light in the sky was spotted over the Susquehanna Valley around 7:40 p.m. Saturday.",
+            "url": "https://www.wgal.com/article/bright-light-rocket-spotted-flying-over-pennsylvania/41388208",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/rocket-over-easton-pennsylvania-1664200816.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-09-27T10:40:00Z",
+            "content": "A bright light streaked across the sky in south-central Pennsylvania Saturday night, generating reports of possible meteors, comets and even UFOs, but the object wasn't any of those.\r\nViewers sent do… [+1051 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman",
+            "title": "Rising Covid-19 cases in the UK may be a warning for the US - CNN",
+            "description": "There are signs that the United Kingdom could be heading into a fall Covid-19 wave, and experts say the United States may not be far behind.",
+            "url": "https://www.cnn.com/2022/09/27/health/uk-fall-wave-covid-us/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/201123151433-uk-lockdown-1122.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-27T10:35:00Z",
+            "content": "There are signs that the United Kingdom could be heading into a fall Covid-19 wave, and experts say the United States may not be far behind.\r\nA recent increase in Covid-19 cases in England doesnt see… [+6104 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jacques Billeaud",
+            "title": "Oath Keepers founder Stewart Rhodes' path: From Yale to jail - The Associated Press - en Español",
+            "description": "PHOENIX (AP) — Long before he assembled one of the largest far-right anti-government militia groups  in U.S.",
+            "url": "https://apnews.com/article/oath-keepers-founder-jan-6-trial-4372b311695c401255c6881111ff4f41",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5975bbf454df486ebf5fa456e08d92be/3000.jpeg",
+            "publishedAt": "2022-09-27T10:12:22Z",
+            "content": "PHOENIX (AP) Long before he assembled one of the largest far-right anti-government militia groups in U.S. history, before his Oath Keepers stormed the U.S. Capitol on Jan. 6, 2021, Stewart Rhodes was… [+14560 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Goldman Sachs Says Go Underweight Equities as Real Yields Rise (GS) - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=59b3d247-3e64-11ed-92a1-6c795a706151&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOS0yNy9nb2xkbWFuLXNhY2hzLXNheXMtZ28tdW5kZXJ3ZWlnaHQtZXF1aXRpZXMtYXMtcmVhbC15aWVsZHMtcmlzZQ==",
+            "urlToImage": null,
+            "publishedAt": "2022-09-27T10:09:28Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "Wow! Telescopes spot DART asteroid impact in deep space (videos) - Space.com",
+            "description": "The dramatic smashup was visible from 7 million miles away.",
+            "url": "https://www.space.com/dart-asteroid-impact-telescope-videos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vxUFP78Fe3SHoS6m62cmpZ-1200-80.png",
+            "publishedAt": "2022-09-27T10:00:38Z",
+            "content": "Telescopes here on Earth captured the DART asteroid probe's spectacular deep-space death.\r\nDART slammed into Dimorphos\r\n, a moonlet of the larger asteroid Didymos, as planned on Monday evening (Sept.… [+2886 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Mystery leaks hit Russian undersea gas lines, raising European suspicions - Reuters",
+            "description": "European countries on Tuesday raced to investigate unexplained leaks in two Russian gas pipelines running under the Baltic Sea near Sweden and Denmark, infrastructure at the heart of an energy crisis since Russia's invasion of Ukraine.",
+            "url": "https://www.reuters.com/business/energy/mystery-gas-leaks-hit-major-russian-undersea-gas-pipelines-europe-2022-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/Qx-9HEJlqPOwWd7KPPx-Wu52AP8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X2OUMENU5FJMFC6VUFHAQI2FPQ.jpg",
+            "publishedAt": "2022-09-27T09:54:00Z",
+            "content": "STOCKHOLM/COPENHAGEN, Sept 27 (Reuters) - European countries on Tuesday raced to investigate unexplained leaks in two Russian gas pipelines running under the Baltic Sea near Sweden and Denmark, infra… [+4845 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Joe Sommerlad",
+            "title": "Giorgia Meloni: Who is the far-right leader set to become Italy’s first female prime minister? - The Independent",
+            "description": "Brothers of Italy figurehead opposes LGBT+ rights and immigration but insists fascism is dead",
+            "url": "https://www.independent.co.uk/news/world/europe/who-is-giorgia-meloni-b2176123.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/26/12/meloni.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-27T09:27:49Z",
+            "content": "She is the history woman. \r\nGiorgia Meloni is set to become Italys first female prime minister after her right-wing coalition secured 44 per cent of the vote in the countrys general election on Sunda… [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US patrol spots Chinese, Russian naval ships off Alaskan island - Al Jazeera English",
+            "description": "Coast Guard to match ‘presence with presence’ with ‘strategic competitors’ who operate in and around US waters.",
+            "url": "https://www.aljazeera.com/news/2022/9/27/us-patrol-spots-chinese-russian-naval-ships-off-alaska-island",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/AP22270042019860-1.jpg?resize=1200%2C675",
+            "publishedAt": "2022-09-27T09:17:37Z",
+            "content": "A US Coast Guard vessel on routine patrol in the Bering Sea off Alaska has reported an encounter with a Chinese guided missile cruiser which was later discovered to be travelling with two other Chine… [+3088 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse",
+            "title": "Back-up quarterback Cooper Rush, Dallas Cowboys hand New York Giants first loss of the season - CNN",
+            "description": "Starting for the second game in a row for the first time in his career, Cooper Rush has grabbed his opportunity with both hands.",
+            "url": "https://www.cnn.com/2022/09/27/sport/dallas-cowboys-new-york-giants-nfl-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220927090353-cooper-rush-cowboys-giants-week-3.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-27T08:36:00Z",
+            "content": "Starting for the second game in a row for the first time in his career, Cooper Rush has grabbed his opportunity with both hands. \r\nHaving won last week against the Cincinnati Bengals, Rush and the Da… [+2842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Frozen Embryo Transfers Linked With 74% Greater Risk of Dangerous Hypertensive Disorders in Pregnancy - SciTechDaily",
+            "description": "Conceiving a baby from a frozen embryo may significantly increase the mother’s risk of dangerous hypertensive disorders, according to a study published in the journal Hypertension. Compared to naturally conceived pregnancies, pregnancies conceived with assist…",
+            "url": "https://scitechdaily.com/frozen-embryo-transfers-linked-with-74-greater-risk-of-dangerous-hypertensive-disorders-in-pregnancy/",
+            "urlToImage": "https://scitechdaily.com/images/Very-Pregnant-Woman.jpg",
+            "publishedAt": "2022-09-27T08:31:32Z",
+            "content": "According to new resaearch, conceiving a baby from a frozen embryo may significantly raise the mothers risk of dangerous hypertensive disorders.\r\nConceiving a baby from a frozen embryo may significan… [+8520 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Freedom Caucus poised to pull its hardest McCarthy punch - POLITICO",
+            "description": "The pro-Trump group that derailed his speakership bid in 2015 has demands -- but isn't embracing any single challenger to next year's frontrunner for speaker.",
+            "url": "https://www.politico.com/news/2022/09/27/freedom-caucus-mccarthy-speaker-00058891",
+            "urlToImage": "https://static.politico.com/86/fb/7c089d5c4451998f7fb538ceab6f/election-2022-mccarthy-67763.jpg",
+            "publishedAt": "2022-09-27T08:30:00Z",
+            "content": "I hope were not going to mount a challenge, Freedom Caucus member Rep. Randy Weber (R-Texas) said in an interview. This is the most organized weve ever been. So why would we change it?\r\nThe group doe… [+6538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Riverdale' Actor Ryan Grantham Afraid He Could Be Brutalized in Prison - TMZ",
+            "description": "The \"Riverdale\" actor convicted for murdering his mom could end up behind bars with the worst of the worst -- something he and his attorney find gravely concerning, considering he's a puny guy.",
+            "url": "https://www.tmz.com/2022/09/27/riverdale-actor-ryan-grantham-brutalized-prison-life-murder-mom/",
+            "urlToImage": "https://imagez.tmz.com/image/72/16by9/2022/09/26/729dfb562526434a9b2d19274773821c_xl.jpg",
+            "publishedAt": "2022-09-27T07:50:00Z",
+            "content": "The \"Riverdale\" actor convicted for murdering his mom could end up behind bars with the worst of the worst -- something he and his attorney find gravely concerning, considering he's a puny guy.\r\nRyan… [+1733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDIV ClickOnDetroit"
+            },
+            "author": "Matt Morawski",
+            "title": "Undercover Michigan State Police trooper shot in Detroit; police seek gunman - WDIV ClickOnDetroit",
+            "description": "An undercover Michigan State Police trooper was shot early Tuesday morning in Northwest Detroit.",
+            "url": "https://www.clickondetroit.com/news/local/2022/09/27/undercover-michigan-state-police-trooper-shot-in-detroit-no-arrests-made/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BQWYB3JDLBHJRKWNXQQYTEYUPM.jpg?_a=ATO2Bfe0",
+            "publishedAt": "2022-09-27T07:41:30Z",
+            "content": "DETROIT An undercover Michigan State Police trooper was shot early Tuesday morning in Northwest Detroit.\r\nUPDATE: 2 people taken into custody\r\nAccording to MSP, an undercover narcotics unit was condu… [+927 chars]"
+        }
+    ]
+}
