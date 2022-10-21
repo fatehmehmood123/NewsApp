@@ -21,7 +21,7 @@ export default class News extends Component {
   }
   constructor(props) {
     super(props);
-    console.log("I am a constructor of News js");
+    // console.log("I am a constructor of News js");
     this.state = {
       articles: this.articles,
       loading: true,
@@ -89,8 +89,8 @@ export default class News extends Component {
           loader={<Spinner/>}
         > */}
             {/* {console.log(this.state.articles.length)} */}
-            {console.log(this.state.totalResults)}
-            {console.log(this.state.totalResults)}
+            {/* {console.log(this.state.totalResults)} */}
+            {/* {console.log(this.state.totalResults)} */}
             
             <div className="container">
 
