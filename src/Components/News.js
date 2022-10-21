@@ -98,6 +98,7 @@ export default class News extends Component {
           {
             this.state.articles.map((element) => {
               return (
+                <React.Fragment key={element.url}>
                 <div className="col-md-4 my-2">
                   <NewsItems
                   source={element.source.name}
@@ -111,8 +112,10 @@ export default class News extends Component {
                     ? "https://static.politico.com/84/19/d81cb5804677900fe894040c90b9/senate-manchin-12332.jpg"
                     : element.urlToImage
                   }
+                  
                   />
                 </div>
+                  </React.Fragment>
               );
             })}
         </div>
