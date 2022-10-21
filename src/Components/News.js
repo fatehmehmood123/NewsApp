@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import NewsItems from "./NewsItems";
 import Spinner from "./Spinner";
 import PropTypes from "prop-types";
-import InfiniteScroll from "react-infinite-scroll-component";
+// import InfiniteScroll from "react-infinite-scroll-component";
 export default class News extends Component {
   static defaultProps = {
     pageSize: 8,
@@ -82,12 +82,12 @@ export default class News extends Component {
       <>
         <h2 className="text-center my-3">News-Monkey | Top {this.capitalizeFirstLetter( this.props.category)} headlines </h2>
         {this.state.loading && <Spinner />}
-        <InfiniteScroll
+        {/* <InfiniteScroll
           dataLength={this.state.articles.length}
           next={this.fetchMoreData}
           hasMore={(this.state.articles.length-this.props.pageSize) !== this.state.totalResults}
           loader={<Spinner/>}
-        >
+        > */}
             {console.log(this.state.articles.length)}
             {console.log(this.state.totalResults)}
             {console.log(this.state.totalResults)}
@@ -120,7 +120,7 @@ export default class News extends Component {
             })}
         </div>
         </div>
-        </InfiniteScroll>
+        {/* </InfiniteScroll> */}
         {/* <div className="container d-flex justify-content-between">
           <button
             disabled={this.state.page <= 1}
