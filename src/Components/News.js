@@ -88,7 +88,7 @@ export default class News extends Component {
           hasMore={(this.state.articles.length-this.props.pageSize) !== this.state.totalResults}
           loader={<Spinner/>}
         > */}
-            {console.log(this.state.articles.length)}
+            {/* {console.log(this.state.articles.length)} */}
             {console.log(this.state.totalResults)}
             {console.log(this.state.totalResults)}
             
