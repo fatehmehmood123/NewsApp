@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import NewsItems from "./NewsItems";
 import Spinner from "./Spinner";
 import PropTypes from "prop-types";
-// import InfiniteScroll from "react-infinite-scroll-component";
+import InfiniteScroll from "react-infinite-scroll-component";
 export default class News extends Component {
   static defaultProps = {
     pageSize: 8,
@@ -39,6 +39,7 @@ export default class News extends Component {
     // this.props.setProgress(30);
     let parsedData = await data.json();
     // this.props.setProgress(70);
+    console.log(parsedData);
     this.setState({
       articles: parsedData.articles,
       totalResults: parsedData.totalResults,
@@ -84,12 +85,12 @@ export default class News extends Component {
       <>
         <h2 className="text-center my-3">News-Monkey | Top {this.capitalizeFirstLetter( this.props.category)} headlines </h2>
         {this.state.loading && <Spinner />}
-        {/* <InfiniteScroll
+        <InfiniteScroll
           dataLength={this.state.articles.length}
           next={this.fetchMoreData}
           hasMore={(this.state.articles.length-this.props.pageSize) !== this.state.totalResults}
           loader={<Spinner/>}
-        > */}
+        >
             {/* {console.log(this.state.articles.length)} */}
             {/* {console.log(this.state.totalResults)} */}
             {/* {console.log(this.state.totalResults)} */}
@@ -109,10 +110,11 @@ export default class News extends Component {
                   title={element.title}
                   url={element.url}
                   description={element.description}
+                  
                   imageUrl={
-                    !element.urlToImage
+                      !element.urlToImage
                     ? "https://static.politico.com/84/19/d81cb5804677900fe894040c90b9/senate-manchin-12332.jpg"
-                    : element.urlToImage
+                    : element.urlToImage 
                   }
                   
                   />
@@ -122,7 +124,7 @@ export default class News extends Component {
             })}
         </div>
         </div>
-        {/* </InfiniteScroll> */}
+        </InfiniteScroll>
         {/* <div className="container d-flex justify-content-between">
           <button
             disabled={this.state.page <= 1}
